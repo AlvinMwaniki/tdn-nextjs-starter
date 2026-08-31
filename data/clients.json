@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Riverstone Dental Group",
+    "status": "active",
+    "monthlyBudget": 4200,
+    "lastReportDate": "2026-08-21"
+  },
+  {
+    "id": 2,
+    "name": "Pinnacle Roofing Co.",
+    "status": "at-risk",
+    "monthlyBudget": 2750,
+    "lastReportDate": "2026-07-30"
+  },
+  {
+    "id": 3,
+    "name": "Willow & Sage Boutique",
+    "status": "paused",
+    "monthlyBudget": 1500,
+    "lastReportDate": "2026-06-15"
+  },
+  {
+    "id": 4,
+    "name": "BrightPath Tutoring",
+    "status": "active",
+    "monthlyBudget": 3100,
+    "lastReportDate": "2026-08-25"
+  },
+  {
+    "id": 5,
+    "name": "Coastal Home Inspections",
+    "status": "active",
+    "monthlyBudget": 1950,
+    "lastReportDate": "2026-08-18"
+  },
+  {
+    "id": 6,
+    "name": "Harborview Legal",
+    "status": "at-risk",
+    "monthlyBudget": 5400,
+    "lastReportDate": "2026-07-02"
+  }
+]

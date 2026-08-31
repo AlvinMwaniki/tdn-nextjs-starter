@@ -1,0 +1,23 @@
+{
+  "name": "tdn-nextjs-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "postcss": "^8.5.26",
+    "tailwindcss": "^4.3.3"
+  }
+
+  
+  
+}
